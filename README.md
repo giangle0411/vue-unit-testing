@@ -1,5 +1,24 @@
 # unit-testing-vue
 
+## Testings
+1. Component testing 
+```
+AppHeader.spec.js
+```
+2. Props and users' interaction 
+```
+RandomNumber.spec.js
+```
+3. Emitted Events 
+```
+LoginForm.spec.js
+```
+4. API Calls
+```
+MessageDisplay.spec.js
+```
+
+
 ## Project setup
 ```
 npm install
